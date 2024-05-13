@@ -11,5 +11,7 @@ It is creating patterns by visualizing the movement of particles.
 
 ## Video Demo
 
+![video](https://youtu.be/GWi3O4hjxFI)
+
 
 
